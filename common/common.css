@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.clear {
+    clear: both;
+}
+.menu-item{
+width:350px;
+height:350px;
+}
+.contents-item{
+display: flex;
+flex-wrap: wrap;
+}
+.contents-item  li{
+ text-align: center;
+ width: 50%;
+}
+.container{
+  text-align: center;
+}
+.container  input{
+  text-align: center;
+}
